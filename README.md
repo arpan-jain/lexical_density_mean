@@ -4,7 +4,6 @@
 2. Run database migrations and tests with `npm run test`
 3. Run the application  with `npm run start`
 4. Access `http://localhost:8080/` and you're ready to go!
-    > http://localhost:4000/api/v1
 
 ### Database Setup (Development)
 
